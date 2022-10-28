@@ -17,3 +17,6 @@
 ### Todo
 - Dark mode toggle
 - Linter/ESLint
+
+### Notes
+- PostCSS error -> delete yarn.lock
