@@ -19,4 +19,5 @@
 - Linter/ESLint
 
 ### Notes
+- Override type of material-icons.css & material-icons.min.css
 - PostCSS error -> delete yarn.lock
