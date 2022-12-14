@@ -22,5 +22,5 @@
 
 ### Notes
 
--   Override type of material-icons.css & material-icons.min.css
--   PostCSS error -> delete yarn.lock
+-   Override type of material-icons.css & material-icons.min.css (Webstorm)
+-   ~~PostCSS error -> delete yarn.lock~~ Probably fixed
