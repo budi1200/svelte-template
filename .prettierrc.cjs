@@ -11,5 +11,5 @@ module.exports = {
             options: { parser: "svelte" },
         },
     ],
-    htmlWhitespaceSensitivity: "strict", // TODO: Decide which setting is better
+    htmlWhitespaceSensitivity: "ignore",
 };

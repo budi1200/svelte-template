@@ -6,14 +6,19 @@
 -   TypeScript
 -   TailwindCSS
     -   MD3 Color Tokens
-    -   Dark Mode support
--   Material Icons
+    -   Automatic Dark Mode support
+-   Unplugin Icons (Iconify)
 
 ### Things to change
 
 -   Change page title in `index.html`
 -   Add a Favicon
 -   Setup colors in `src/theme/tokens.css`
+
+### Icons
+
+-   Preinstalled icon pack is Material Design Icons (`@iconify-json/mdi`)
+-   Learn how to install other icon packs [here](https://github.com/antfu/unplugin-icons#icons-data)
 
 ### Todo
 
@@ -22,5 +27,4 @@
 
 ### Notes
 
--   Override type of material-icons.css & material-icons.min.css (Webstorm)
--   ~~PostCSS error -> delete yarn.lock~~ Probably fixed
+-   Noting at the moment
